@@ -3,8 +3,8 @@ include_once('templates/header.php');
 ?>
 
 <main>
-  <div id="container">
-    <h1>CodaDev</h1>
+  <div id="title-container">
+    <h1>Blog CodaDev</h1>
     <p>O seu Blog de Noticias de Programação</p>
   </div>
   <div id="posts">
